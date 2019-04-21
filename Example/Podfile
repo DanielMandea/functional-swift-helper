@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FunctionalSwiftHelper_Example' do
+  pod 'FunctionalSwiftHelper', :path => '../'
+
+  target 'FunctionalSwiftHelper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

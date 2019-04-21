@@ -1,0 +1,6 @@
+framework module FunctionalSwiftHelper {
+  umbrella header "FunctionalSwiftHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}
