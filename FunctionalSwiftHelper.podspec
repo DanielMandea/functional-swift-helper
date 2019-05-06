@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FunctionalSwiftHelper'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Based on functional monads we have a light weight framework for futures and promises'
   s.description      = <<-DESC
  Based on functional monads we have a light weight framework for futures and promises .

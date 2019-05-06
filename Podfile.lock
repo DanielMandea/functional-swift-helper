@@ -1,0 +1,16 @@
+PODS:
+  - FunctionalSwiftHelper (0.1.1)
+
+DEPENDENCIES:
+  - FunctionalSwiftHelper (from `./`)
+
+EXTERNAL SOURCES:
+  FunctionalSwiftHelper:
+    :path: "./"
+
+SPEC CHECKSUMS:
+  FunctionalSwiftHelper: 42bdb93692dd9c71fd7ebf0012cf4498140a4e21
+
+PODFILE CHECKSUM: 87085378b90cffe36e7b4ac8792c98883ccb2b7b
+
+COCOAPODS: 1.6.1
